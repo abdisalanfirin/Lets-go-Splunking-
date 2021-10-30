@@ -9,7 +9,7 @@ I Upload the following file Called Speed_test in the system speeds around the ti
 
 
 The Speed_test created table is shown below:
-![speed test file](./Images/snap_1.png)
+![speed test file](./Images/snap-1.png)
 
 - Based on the report created, what is the approximate date and time of the attack?
     - In the above report, the attack occurred at 14:30 on February 23, 2020. after that the Systems recovered and was operating normally by 23:00 on February 23, 2020, representing a total recovery time of 8 hours and 30 minutes
@@ -25,16 +25,16 @@ I Create a report  that determining how many critical vulnerabilities exist on t
 The database server IP is 10.11.36.23, and The field that identifies the level of vulnerabilities is severity.
 
 The created report is shown below:
-![created a report](./Images/snap_2.png)
-![created a report](./Images/snap_2y.png)
+![created a report](./Images/snap-2.png)
+![created a report](./Images/snap-2y.png)
 
 
 
 I Build an alert that monitors every day to see if this server has any critical vulnerabilities. If a vulnerability exists, I have an alert emailed to soc@vandalay.com.
 
 Proof the alert has been created:
-![Alert](./Images/snap_y.png)
-![Alert](./Images/snap_xy.png)
+![Alert](./Images/snap-y.png)
+![Alert](./Images/snap-xy.png)
 
 
 ### Step 3: Drawing the (base)line
