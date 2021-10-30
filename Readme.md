@@ -9,7 +9,7 @@ I Upload the following file Called Speed_test in the system speeds around the ti
 
 
 The Speed_test created table is shown below:
-![speed test file](./Images/snap-1.png)
+![speed test file](./Images/snap-1.PNG)
 
 - Based on the report created, what is the approximate date and time of the attack?
     - In the above report, the attack occurred at 14:30 on February 23, 2020. after that the Systems recovered and was operating normally by 23:00 on February 23, 2020, representing a total recovery time of 8 hours and 30 minutes
