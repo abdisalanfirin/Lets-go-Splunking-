@@ -9,6 +9,7 @@ I Upload the following file Called Speed_test in the system speeds around the ti
 
 
 The Speed_test created table is shown below:
+
 ![speed test file](./Images/snap-1.PNG)
 
 - Based on the report created, what is the approximate date and time of the attack?
@@ -25,8 +26,10 @@ I Create a report  that determining how many critical vulnerabilities exist on t
 The database server IP is 10.11.36.23, and The field that identifies the level of vulnerabilities is severity.
 
 The created report is shown below:
-![created a report](./Images/snap-2.png)
-![created a report](./Images/snap-2y.png)
+
+![created a report](./Images/snap-2.PNG)
+
+![created a report](./Images/snap-2y.PNG)
 
 
 
