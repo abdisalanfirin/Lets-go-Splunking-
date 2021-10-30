@@ -36,8 +36,9 @@ The created report is shown below:
 I Build an alert that monitors every day to see if this server has any critical vulnerabilities. If a vulnerability exists, I have an alert emailed to soc@vandalay.com.
 
 Proof the alert has been created:
-![Alert](./Images/snap-y.png)
-![Alert](./Images/snap-xy.png)
+![Alert](./Images/snap-y.PNG)
+
+![Alert](./Images/snap-xy.PNG)
 
 
 ### Step 3: Drawing the (base)line
@@ -48,9 +49,9 @@ Task: Analyze administrator logs that document a brute force attack. Then, creat
 - When did the brute force attack occur?
     - The attack occurred between 9:00 AM and 1:00 PM on February 21, 2020.
     
-    ![Alart brute force](./Images/snap-3.png)
+    ![Alart brute force](./Images/snap-3.PNG)
     
-    ![Alart brute force](./Images/snap-3y.png)
+    ![Alart brute force](./Images/snap-3y.PNG)
 
 - Determine a baseline of normal activity and a threshold that would alert if a brute force attack is occurring.
     -  Normal activity with regard to failed login attempts seems to fluctuate between six (6) and approximately 20 attempts per hour. During each of the hours of the attack, the number of failed login attempts increased to 124, 101, 121, 95, and 123. A baseline of normal failed login attempt activity might be 25 failed attempts per hour, with a threshold of 50 attempts per hour triggering an alert.
@@ -59,4 +60,4 @@ Task: Analyze administrator logs that document a brute force attack. Then, creat
 I Design an alert to check the threshold every hour and email the SOC team at SOC@vandalay.com if triggered.
 
 Proof the alert has been created:
-![Alart brute force](./Images/snap-3x.png)
+![Alart brute force](./Images/snap-3x.PNG)
